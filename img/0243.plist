@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dawoo.gamebox.sid902</string>
+				<string>com.dawoo.gamebox.sid7277</string>
 				<key>bundle-version</key>
-				<string>5.0.9</string>
+				<string>2.9.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
