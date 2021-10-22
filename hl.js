@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@dashange123 
-dashange123
-/
-0243
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-0243/img/0243.js /
-@dashange123
-dashange123 Update and rename 0243.plist to 0243.js
-Latest commit f67f84d 2 days ago
- History
- 1 contributor
-42 lines (36 sloc)  2.09 KB
-  
  function tiao() {
    
  
@@ -71,16 +40,3 @@ Latest commit f67f84d 2 days ago
  
  
     }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
